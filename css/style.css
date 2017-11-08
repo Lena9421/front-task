@@ -140,7 +140,9 @@ and (max-width: 1229px) {
 
         flex-wrap: wrap;
     }
-
+    .info__location {
+        width: 180px;
+    }
     .info__contacts .info__title {
         padding-top: 20px;
         padding-left: 130px;
@@ -153,8 +155,7 @@ and (max-width: 1229px) {
     }
 
     .info__resourses,
-    .info__features,
-    .info__location {
+    .info__features {
         width: 233px;
         height: 183px;
     }
