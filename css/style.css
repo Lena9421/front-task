@@ -175,7 +175,7 @@ and (max-width: 1229px) {
         padding-left: 130px;
     }
     .info__features .info__title {
-        padding-left: 65px;
+        padding-left: 60px;
     }
     .info__location .info__title {
         padding-left: 0;
@@ -339,6 +339,9 @@ and (max-width: 3230px) {
         width: 80px;
         height: 13px;
         padding-left: 100px;
+    }
+    .info__features .info__title {
+        padding-left: 60px;
     }
     .info__text {
         padding-right: 0;
